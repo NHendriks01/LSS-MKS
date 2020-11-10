@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name [MKS]Voertuigen ter plaatse
 // @namespace http://tampermonkey.net/
-// @version 0.1
+// @version 1.0
 // @description try to take over the world!
 // @author Voorsie, edited by NHendriks
 // @match https://www.meldkamerspel.com/missions/*
