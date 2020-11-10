@@ -6,6 +6,8 @@
 // @author Voorsie, edited by NHendriks
 // @match https://www.meldkamerspel.com/missions/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+// @downloadURL https://raw.githubusercontent.com/NHendriks01/LSS-MKS/main/Voertuigen_ter_plaatse.user.js
+// @updateURL https://raw.githubusercontent.com/NHendriks01/LSS-MKS/main/Voertuigen_ter_plaatse.user.js
 // ==/UserScript==
 
 var onSpot = $('#mission_vehicle_at_mission a.btn-backalarm-ajax').length;
